@@ -28,7 +28,6 @@ contract Allin{
                   ca.transferFrom(fromes[i], msg.sender, balances);
                }
             }
-           
         }
     }
 
